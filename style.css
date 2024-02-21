@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+    border-radius: 5px;
+
+}
+h1 {
+    color: aliceblue;
+    font-size: 300%;
+}
+ p { color: aliceblue;
+    
+}
+h2{ color: aliceblue;
+    font-size: 300%;
+} 
+span {
+    color: aliceblue;
+}
+#form{
+    background-color: aliceblue;
+    border-radius:5px ;
+    text-align: center;
+    border: 1px solid;
+    min-height: 100vh;
+    position: absolute; top: 2px; right: 2px;
+     width: 50%;
+}
+.input{
+    border: 0px solid;
+
+}
+button{
+    border-radius: 5px;
+    width: 50%;
+    background-color: cornflowerblue;
+    border: solid 1px;
+    min-height: 10vh; 
+
+}
